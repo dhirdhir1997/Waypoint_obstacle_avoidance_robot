@@ -26,6 +26,6 @@ Assumptions:
         {-0.5, -0.4, 0.2}, // Example obstacle 2 (center: [-0.5, -0.4], diameter: 0.2)
         {0.7, -0.7, 0.5}   // Example obstacle 3 (center: [0.7, -0.7], diameter: 0.5)
    
-2. The robot is point object
+2. The robot is a point object
 
         
