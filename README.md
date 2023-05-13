@@ -15,6 +15,9 @@ over the entire space such that
 path clear of any obstacles
 The robot is initially placed at [-1,-1]
 
+Print out the positions and diameters of the obstacles chosen and also the coordinates of the
+waypoints selected by the program.
+
 Assumptions:
 1. There are three sample obstacles taken in the co-ordinate system
 
