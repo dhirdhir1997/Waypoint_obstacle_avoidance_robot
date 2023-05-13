@@ -17,6 +17,8 @@ The robot is initially placed at [-1,-1]
 
 Assumptions:
 1. There are three sample obstacles taken in the co-ordinate system
+
+
       {-0.2, -0.2, 0.3},   // Example obstacle 1 (center: [-0.2, -0.2], diameter: 0.3)
         {-0.5, -0.4, 0.2}, // Example obstacle 2 (center: [-0.5, -0.4], diameter: 0.2)
         {0.7, -0.7, 0.5}   // Example obstacle 3 (center: [0.7, -0.7], diameter: 0.5)
