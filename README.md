@@ -1,6 +1,6 @@
-# https---github.com-dhirdhir1997-Waypoint
 
-Waypoint_obstacle_avoidance
+
+# Waypoint_obstacle_avoidance
 
 In this project a simple C++ code is written for the following scenario:
 
