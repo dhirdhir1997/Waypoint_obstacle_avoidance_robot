@@ -2,7 +2,7 @@
 
 # Waypoint_obstacle_avoidance
 
-In this project a simple C++ code is written for the following scenario:
+# Problem Statement:
 
 A robot is constrained to move in a bound 2D-space ([-1,-1] → [1,1]) interspersed with
 obstacles. Assume for now that the robot is a point object and the obstacles have a circular
@@ -18,6 +18,11 @@ The robot is initially placed at [-1,-1]
 Print out the positions and diameters of the obstacles chosen and also the coordinates of the
 waypoints selected by the program.
 
+# Solution:
+
+Write a simple C++ code to find positions and diameters of obstacle with coordinates of waypoints.
+For this, following assumptions were made:
+
 Assumptions:
 1. There are three sample obstacles taken in the co-ordinate system
 
@@ -27,5 +32,7 @@ Assumptions:
         {0.7, -0.7, 0.5}   // Example obstacle 3 (center: [0.7, -0.7], diameter: 0.5)
    
 2. The robot is a point object
+
+
 
         
